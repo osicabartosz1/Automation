@@ -1,0 +1,6 @@
+c:\users\bartek\documents\visual studio 2013\Projects\FindProcess\FindProcess\bin\Debug\FindProcess.exe.config
+c:\users\bartek\documents\visual studio 2013\Projects\FindProcess\FindProcess\bin\Debug\FindProcess.exe
+c:\users\bartek\documents\visual studio 2013\Projects\FindProcess\FindProcess\bin\Debug\FindProcess.pdb
+c:\users\bartek\documents\visual studio 2013\Projects\FindProcess\FindProcess\obj\Debug\FindProcess.csprojResolveAssemblyReference.cache
+c:\users\bartek\documents\visual studio 2013\Projects\FindProcess\FindProcess\obj\Debug\FindProcess.exe
+c:\users\bartek\documents\visual studio 2013\Projects\FindProcess\FindProcess\obj\Debug\FindProcess.pdb
